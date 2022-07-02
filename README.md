@@ -16,7 +16,7 @@ Continuous integration (CI) and continuous delivery (CD), GitHub Actions are ter
 
 Cloud technologies is a must for you, you need to research in some Cloud technologies that are used for data engineering tasks.
 
-Last but not least is that you need to know why your work is important, use cases. Read about this and how your work is import to data scientist and to make available the data to the organization.
+Last but not least is that you need to know why your work is important, use cases. Read about this and how your work is critical to data scientist and to make available the data to the organization.
 
 Finally, I recommend to you following people in Twitter related to Data Engineer. Reddit is very good to stay updated in this field. Newsletters such as https://www.dataengineeringweekly.com/ could be interesting. 
 
